@@ -29,7 +29,6 @@ class DefineHookHandler < YARD::Handlers::Ruby::Base
     # add custom metadata to the object
     object["custom_field"] = "Genrated by define_hook"
 
-warn "object: #{object.tags.inspect}"
   end
 
 end
