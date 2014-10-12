@@ -7,7 +7,6 @@ See the file LICENSE for copying permission.
 YARD::Tags::Library.define_tag "Hook#notify_objects block params", :notify_param, :with_types_and_name
 YARD::Tags::Library.visible_tags << :notify_param
 
-
 class DefineHookHandler < YARD::Handlers::Ruby::Base
 
   handles method_call(:define_hook)
