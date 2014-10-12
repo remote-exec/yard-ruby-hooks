@@ -7,5 +7,5 @@ See the file LICENSE for copying permission.
 # Placeholder for version
 class YardRubyHooks
   # Version of the yard-ruby-hooks gem
-  VERSION = "0.0.1"
+  VERSION = "0.9.0"
 end
